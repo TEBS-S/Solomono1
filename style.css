@@ -1,0 +1,22 @@
+.categories {
+    float: left;
+    outline: 0;
+    border: 3px solid #fff;
+    vertical-align: top;
+    width: 250px;
+}
+
+.goods {
+    float: left;
+    outline: 0;
+    border: 3px solid #fff;
+    vertical-align: top;
+}
+
+.catNotSelected {
+    font-weight: normal;
+}
+
+.catSelected {
+    font-weight: 900;
+}
